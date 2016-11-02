@@ -1,0 +1,22 @@
+{
+  "name": "bc-npm",
+  "version": "0.0.1",
+  "description": "bc project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bc-robot/bc-npm.git"
+  },
+  "keywords": [
+    "bc"
+  ],
+  "author": "bc-robot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bc-robot/bc-npm/issues"
+  },
+  "homepage": "https://github.com/bc-robot/bc-npm#readme"
+}
